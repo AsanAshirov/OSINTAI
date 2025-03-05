@@ -5,7 +5,7 @@ A free, open-source OSINT (Open Source Intelligence) toolset for cybersecurity r
 ## Author
 - **Coded by**:Asan Ashirov
 - **Affiliation**: INHA University
-- **Email**: asanashirov@gmail.com
+- **Email**: asanashirov24@gmail.com
 - **Purpose**: Cybersecurity Research
 
 ## Features
