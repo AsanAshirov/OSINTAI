@@ -3,9 +3,9 @@ OSINT_TOOLS
 A free, open-source OSINT (Open Source Intelligence) toolset for cybersecurity research, designed to analyze domains and generate detailed reports without reliance on paid APIs.
 
 ## Author
-- **Coded by**: Anderson Alves
+- **Coded by**:Asan Ashirov
 - **Affiliation**: INHA University
-- **Email**: anderson_alves@live.com
+- **Email**: asanashirov@gmail.com
 - **Purpose**: Cybersecurity Research
 
 ## Features
